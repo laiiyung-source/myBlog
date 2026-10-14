@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://myblog-6fn.pages.dev/"
 title: ExampleSite
 paginate: 5
 theme: PaperMod
@@ -135,4 +135,3 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
-    
